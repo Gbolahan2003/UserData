@@ -1,0 +1,23 @@
+# Ignore node modules
+node_modules
+npm-debug.log
+
+# Ignore Vite build output
+dist
+
+# Ignore local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore logs
+logs
+*.log
+
+# Ignore other files and directories
+.DS_Store
+.vscode
+.idea
+*.swp
